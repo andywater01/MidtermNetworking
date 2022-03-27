@@ -1,0 +1,7 @@
+C:\Users\Andy\Creative Cloud Files\Third Year Uni\sem2\Distributed Systems & Networking\NetworkingMidtermServer\NetworkingMidtermServer\bin\Debug\NetworkingMidtermServer.exe.config
+C:\Users\Andy\Creative Cloud Files\Third Year Uni\sem2\Distributed Systems & Networking\NetworkingMidtermServer\NetworkingMidtermServer\bin\Debug\NetworkingMidtermServer.exe
+C:\Users\Andy\Creative Cloud Files\Third Year Uni\sem2\Distributed Systems & Networking\NetworkingMidtermServer\NetworkingMidtermServer\bin\Debug\NetworkingMidtermServer.pdb
+C:\Users\Andy\Creative Cloud Files\Third Year Uni\sem2\Distributed Systems & Networking\NetworkingMidtermServer\NetworkingMidtermServer\obj\Debug\NetworkingMidtermServer.csproj.AssemblyReference.cache
+C:\Users\Andy\Creative Cloud Files\Third Year Uni\sem2\Distributed Systems & Networking\NetworkingMidtermServer\NetworkingMidtermServer\obj\Debug\NetworkingMidtermServer.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Creative Cloud Files\Third Year Uni\sem2\Distributed Systems & Networking\NetworkingMidtermServer\NetworkingMidtermServer\obj\Debug\NetworkingMidtermServer.exe
+C:\Users\Andy\Creative Cloud Files\Third Year Uni\sem2\Distributed Systems & Networking\NetworkingMidtermServer\NetworkingMidtermServer\obj\Debug\NetworkingMidtermServer.pdb
